@@ -28,3 +28,19 @@
   margin: 0px;
   color: #0f0f0f;
 }
+
+.try {
+  margin: 0px;
+
+}
+
+.underline{
+  border-bottom: 1px ridge;
+}
+
+.nounderline{
+  border-bottom: 0px;
+}
+.thick{
+
+}
